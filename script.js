@@ -1,7 +1,7 @@
 let poll = {
-    question: "What are you most excited for?",
+    question: " What are you most excited for?",
     answers: [
-        "Mr.Sparkuhl Coming Back!", "Falcon Fit Challenge!", "Mid Winter Break!"
+        "Summer Break", "Field Day", "Graduation"
     ],
     pollCount:20,
     answersWeight:[4, 4, 2, 10],
